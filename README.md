@@ -3,16 +3,16 @@
 </div>
 <br>
 
-### <div align="center">Hi there, I'm Aditya 👋</div>  
+### <div align="center">Hi there, I'm Ansh Sindhwani 👋</div>  
   
 
-- 🎓 Currently a sophomore at IIIT Hyderabad  
+- 🎓 Currently a Senior at GGSIP University, East Delhi Campus 
   
 
-- 🌱 Passionate about data science and problem solving 
+- 🌱 Passionate about data science, artificial intelligence and computer systems 
   
 
-- 📫 How to reach me: aadityamalhotra1512@gmail.com  
+- 📫 How to reach me: anshsindhwani007@gmail.com  
   
 
 <br/>  
@@ -37,13 +37,11 @@
 
 ## Github Stats  
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-debug15&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-sindhwani&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
   <br/> 
    <br/>
-<img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-debug15&layout=compact&theme=radical" />
+<img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sindhwani&layout=compact&theme=radical" />
   <br/> 
-   <br/>
-<img align="center" src="https://komarev.com/ghpvc/?username=Aditya-debug15&label=PROFILE+VIEWS" />  
 </div>  
    <br/>
 
@@ -51,13 +49,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/in/aditya-malhotra-b21654219/" target="_blank">
+<a href="www.linkedin.com/in/ansh-sindhwani" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/aditya.malhotra.18007/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Aditya-debug15" target="_blank">
+<a href="https://github.com/ansh-sindhwani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  

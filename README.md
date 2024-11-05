@@ -35,17 +35,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansh-sindhwani&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
-  <br/> 
-   <br/>
-<img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sindhwani&layout=compact&theme=radical" />
-  <br/> 
-</div>  
-   <br/>
-
-
 
 ## Connect with me  
 <div align="center">
